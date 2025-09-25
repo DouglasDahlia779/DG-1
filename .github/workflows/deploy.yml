@@ -2,7 +2,7 @@ name: Deploy Quartz site
 
 on:
   push:
-    branches: ["master"]   # or "main" if your repo uses main instead of master
+    branches: ["master"]
   workflow_dispatch:
 
 permissions:
@@ -27,10 +27,12 @@ jobs:
           node-version: 24
 
       - name: Install dependencies
-        run: npm install --prefix quartz
+        run: npm install
+        working-directory: quartz
 
       - name: Build Quartz site
-        run: npx quartz build --prefix quartz
+        run: npx --yes @jackyzha0/quartz@latest build
+        working-directory: quartz
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
