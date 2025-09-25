@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"15f0d0548771a45f","type":"text","text":"Different ways to Publish your notes on a webs site.","x":-220,"y":-460,"width":340,"height":106},
+		{"id":"a4bf7cf512a235ed","type":"text","text":"Obsidian Digital Garden Plugin\n","x":-5,"y":-220,"width":250,"height":60},
+		{"id":"872c90fec3b30a7e","type":"text","text":"Git repo","x":40,"y":-108,"width":127,"height":68},
+		{"id":"6a3f714d629d2979","type":"text","text":"Netlify","x":280,"y":-106,"width":100,"height":64},
+		{"id":"80f661d362a07bf5","type":"text","text":"Obsidian","x":-220,"y":-108,"width":141,"height":68},
+		{"id":"d06b7bca841fce24","type":"text","text":"if \"dg-publish: true\" then the note is moved to the Git repo as an \".md\" file","x":-274,"y":20,"width":269,"height":100},
+		{"id":"693066f8c907fb5d","type":"text","text":"if \"dg-publish: \"false\" then the note is removed from the git repo","x":-292,"y":180,"width":306,"height":86},
+		{"id":"78dd40becb12bbf7","type":"text","text":"conversion to HTML occurs on Netlifly servers during \"build\"\n","x":140,"y":20,"width":280,"height":135},
+		{"id":"8f160219558412a5","type":"text","text":"auto note mover plugin","x":-827,"y":-352,"width":250,"height":60},
+		{"id":"fbdf223848487832","type":"file","file":"how I installed Obsidian Publishing via Digital Garden.md","x":140,"y":223,"width":460,"height":177},
+		{"id":"43b1bbc6460f420d","type":"text","text":"/Documents/GithHub/DG-1/quartz/content","x":1004,"y":-532,"width":456,"height":72,"color":"4"},
+		{"id":"94510d619d771870","type":"text","text":"Obsidian notes in Studies_Vault","x":1640,"y":-532,"width":445,"height":66,"color":"2"},
+		{"id":"3dc88fa80e4b1863","type":"text","text":"Created a SYMLINK in the Obsidian vault that points to the quartz directory\n","x":1755,"y":-288,"width":330,"height":98},
+		{"id":"40929ff508ab9ce6","type":"text","text":"Use Auto Note Mover to move files into this directory inside Obsidian","x":1765,"y":-117,"width":320,"height":87},
+		{"id":"6ba3829880c57b9e","type":"text","text":"add a tag: #dg to move this note; remobve the tag later so it does not appear in the DG-1","x":1323,"y":-117,"width":285,"height":113},
+		{"id":"f3d2951225fa0337","type":"text","text":"LOCATION OF CONTENT","x":1091,"y":-288,"width":283,"height":74},
+		{"id":"5ac2fc8dacf752d8","type":"text","text":"How to move files ?","x":1466,"y":-400,"width":250,"height":60},
+		{"id":"aa976164a67c00de","type":"text","text":"GitHub Repo: ","x":680,"y":-532,"width":230,"height":72,"color":"3"},
+		{"id":"74a2405db0c30e86","x":1249,"y":-840,"width":250,"height":126,"color":"1","type":"text","text":"(1)\ncd quartz\nnpx quartz build --serve"},
+		{"id":"65233aa39c87655a","x":879,"y":-821,"width":250,"height":88,"color":"1","type":"text","text":"(2)\nnpx quartz sync"},
+		{"id":"11d81c9fbbe04158","x":492,"y":-346,"width":250,"height":60,"color":"2","type":"text","text":"DouglasDahlia779.github.io/DG-1"},
+		{"id":"90e5aa547ae7ad5d","x":1249,"y":-920,"width":250,"height":60,"color":"2","type":"text","text":"http://localhost:8080"},
+		{"id":"8ed31d900d52ba03","type":"text","text":"NEW FILES moved into the /quartz directory trigger a re-build on my local machine, and the local html server updates which is seen at localhost:8080","x":1323,"y":88,"width":468,"height":153}
+	],
+	"edges":[
+		{"id":"951d1b6629606793","fromNode":"872c90fec3b30a7e","fromSide":"right","toNode":"6a3f714d629d2979","toSide":"left"},
+		{"id":"53aba49335c59074","fromNode":"80f661d362a07bf5","fromSide":"right","toNode":"872c90fec3b30a7e","toSide":"left"},
+		{"id":"3e8fe5e30af0264a","fromNode":"d06b7bca841fce24","fromSide":"top","toNode":"80f661d362a07bf5","toSide":"bottom"},
+		{"id":"347fd5beae36c95c","fromNode":"f3d2951225fa0337","fromSide":"top","toNode":"43b1bbc6460f420d","toSide":"bottom"},
+		{"id":"4d01bc77defdfd9e","fromNode":"94510d619d771870","fromSide":"bottom","toNode":"5ac2fc8dacf752d8","toSide":"top"},
+		{"id":"d38045c37b2aeb32","fromNode":"5ac2fc8dacf752d8","fromSide":"left","toNode":"43b1bbc6460f420d","toSide":"bottom"},
+		{"id":"830451ad89de83b0","fromNode":"43b1bbc6460f420d","fromSide":"top","toNode":"aa976164a67c00de","toSide":"top","label":"how to move files here"},
+		{"id":"2ce8bbff985726d9","fromNode":"3dc88fa80e4b1863","fromSide":"top","toNode":"5ac2fc8dacf752d8","toSide":"bottom"},
+		{"id":"3b7ce1acb59eca77","fromNode":"40929ff508ab9ce6","fromSide":"top","toNode":"3dc88fa80e4b1863","toSide":"bottom"},
+		{"id":"d2b4256628bfcc76","fromNode":"6ba3829880c57b9e","fromSide":"right","toNode":"40929ff508ab9ce6","toSide":"left"},
+		{"id":"683836c4865dc96f","fromNode":"43b1bbc6460f420d","fromSide":"top","toNode":"74a2405db0c30e86","toSide":"bottom"},
+		{"id":"fa8f01509bc96d68","fromNode":"74a2405db0c30e86","fromSide":"left","toNode":"65233aa39c87655a","toSide":"right"},
+		{"id":"bfcbc049d3594149","fromNode":"aa976164a67c00de","fromSide":"bottom","toNode":"11d81c9fbbe04158","toSide":"top"}
+	]
+}

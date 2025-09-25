@@ -1,0 +1,53 @@
+---
+tags:
+  - dg
+---
+
+
+
+"Therefore am I still   
+A lover of the meadows and the woods,   
+And mountains; and of all that we behold   
+From this green earth; of all the mighty world   
+Of eye and ear, both what they half create   
+And what perceive; well pleased to recognise   
+In nature and the language of the sense,   
+The anchor of my purest thoughts, the nurse,   
+The guide, the guardian of my heart, and soul   
+Of all my moral being."
+
+Explanation of the Quote:
+
+- **"Of eye and ear"**: 
+    
+    This refers to the sensory organs and the way we experience the world through sight and sound. 
+    
+- **"both what they half create / And what perceive"**: 
+    
+    Wordsworth argues that perception isn't solely passive. Our minds actively "half create" what we observe, blending sensory input with imagination and internal thought. 
+    
+- **"the language of the sense"**: 
+    
+    This phrase suggests a deeper connection to the natural world, a way of understanding that goes beyond simple observation. 
+    
+- **Significance**: 
+    
+    By learning to integrate direct sensory experience with imaginative creation, the speaker finds a deeper connection to nature, which serves as a moral and spiritual guide for his being. 
+    
+
+- [](https://www.goodreads.com/quotes/8078893-therefore-am-i-still-a-lover-of-the-meadows)
+    
+    ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEXr4tfu5drs49jOxbvGvrTw59y8taw0LyoUDgmXj4hFQDsRCwVNR0Lz6t/17ODUy8G3r6UAAAAaFBBgWlRRTEcKAACGf3glHxtpY11YU02MhX3Lw7kgGxZybGV2cGng18wuKSTh2M1mYFuspZw/OTWmnpaRi4OPLBPqAAABMUlEQVR4AZ3Q12LDIAxAUQlbDjEBItIM793//8QmcbfoPK9cseB/EBV8K0nhu4Kyjd7SV3vfgtyYnQVBoSPvydo967AnuQ5pzleH9OGYJ5F1dwqGz5eC2Rx8bL7kEE7WOiq4JBCwqgOX1w7Q5+cURWCboy6cgitqeedksAkmW+eoPDKJwLEuOrUGrWGPYofeXNQ9UEOhY0HLI9wDmjgYeQfMeL6PoZoDtxYE3PIFCGlojuGWCopmPkzJVBjDGYKEA4fAV8exIpAUNEdO06VcsoEggrYcMkvWEimIcRtTDMPgkwGcRZDsWWtehbaLFDQFvjKG+chFtHDD4K5s18Y/SiEhqivyvc5loLq0SrpuGDr/qM0oA3up+3lXXOVG855kkPOL42ZRIGCXvfIWIvAd+IsnEcAU6P+dqA8AAAAASUVORK5CYII=)
+    
+- [](https://www.oxfordreference.com/display/10.1093/acref/9780191843730.001.0001/q-oro-ed5-00011734#:~:text=music%20of%20humanity.-,'Lines%20composed%E2%80%A6,thee:%20she%20is%20a%20fen)
+    
+    ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEUBHkECH0IAHD8EIUMAGj4AGz8AFzsAEjcSKUoPJUcVMVEFIkQrQ2HKz9ddboQoPFrT2N5PY3vAx9B7i509T2p1hZiIlKUADzRtfZLt7/KYorGirLn///+ut8L5+vsrO1pkdova3+RidIlWZX0TLk6PnKw3TmpJV3EuQmBTX3emr7s7SWVKX3jw8fMpEmQ1AAABUElEQVR4AbySRWLEMAxFo5jD7DBDh+5/vboc3FZL/SeW9u8GGsC1qjQdYQJXDFDGBTNMnWI4TU4tS9iO6wnLwOgEMU0/CN0gipMooJTAXpZplhelXdVW0VRGy/cFmBWUyurO87w+tKpIwlpHbFBi6fmc0jHNp7mYrXURILxTeoUkAcBSVEvyFpjrBLJXugfYBEWbVCRpW0i0rlApYJDmT8PO7f6Y/mqAhrqyzLgOvxljP8//UgAes7K0V/szlzAHrl8CgPvUtQ0KVyU0PeqDiRO4aBKwFfaiR4cxhfbpA6TPT8dLV3MCEZ0iEolVX0STzziObY5hncJRQPacAZAw4niYq1ai7bFyRby6OXTj2G+9smCwf5f881yB96wyu8yZcu0I5mTlt736va4MQPK26rKsq3ohT/8WEcnMcTSZ1NHFWyOkYawh9D68WQNoOL0BAIvCG0aaFdqIAAAAAElFTkSuQmCC)
+    
+    ![](data:image/jpeg;base64,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)
+    
+- [](https://www.goodreads.com/quotes/9573171-these-beauteous-forms-through-a-long-absence-have-not-been#:~:text=Therefore%20am%20I%20still,of%20my%20heart%2C%20and%20soul)
+    
+    ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEXr4tfu5drs49jOxbvGvrTw59y8taw0LyoUDgmXj4hFQDsRCwVNR0Lz6t/17ODUy8G3r6UAAAAaFBBgWlRRTEcKAACGf3glHxtpY11YU02MhX3Lw7kgGxZybGV2cGng18wuKSTh2M1mYFuspZw/OTWmnpaRi4OPLBPqAAABMUlEQVR4AZ3Q12LDIAxAUQlbDjEBItIM793//8QmcbfoPK9cseB/EBV8K0nhu4Kyjd7SV3vfgtyYnQVBoSPvydo967AnuQ5pzleH9OGYJ5F1dwqGz5eC2Rx8bL7kEE7WOiq4JBCwqgOX1w7Q5+cURWCboy6cgitqeedksAkmW+eoPDKJwLEuOrUGrWGPYofeXNQ9UEOhY0HLI9wDmjgYeQfMeL6PoZoDtxYE3PIFCGlojuGWCopmPkzJVBjDGYKEA4fAV8exIpAUNEdO06VcsoEggrYcMkvWEimIcRtTDMPgkwGcRZDsWWtehbaLFDQFvjKG+chFtHDD4K5s18Y/SiEhqivyvc5loLq0SrpuGDr/qM0oA3up+3lXXOVG855kkPOL42ZRIGCXvfIWIvAd+IsnEcAU6P+dqA8AAAAASUVORK5CYII=)
+    
+
+-
