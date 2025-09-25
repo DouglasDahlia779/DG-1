@@ -31,7 +31,7 @@ jobs:
         working-directory: quartz
 
       - name: Build Quartz site
-        run: npx --yes @jackyzha0/quartz@latest build
+        run: npx quartz build
         working-directory: quartz
 
       - name: Upload artifact
