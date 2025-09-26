@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Thinking4Clarity",
-    pageTitleSuffix: "",
+    pageTitle: "Think_4_Clarity",
+    pageTitleSuffix: "Thinking 4 Clarity",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
