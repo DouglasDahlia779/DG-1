@@ -1,8 +1,15 @@
 ---
 tags:
   - dg
+aliases:
+  - persona
+  - personified mind
+  - psychological self
+  - ego
 ---
-The **persona** is identical to the **ego**. This is the psychological self which is made from all the beliefs one has about themselves
+The **persona** is identical to the **[[ego]]**. This is the [[personified mind]], [[psychological self]] which is a bundle of thoughts composed from all the beliefs one has about themselves. 
+
+It is a natural development in humans.
 
 
 - humans live within the confines of their psychological self
