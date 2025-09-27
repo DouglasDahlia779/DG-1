@@ -1,9 +1,15 @@
 ## What is purpose?
 
-"the reason for which something is done or created or for which something exists."
+Definition: "the reason for which something is done or created or for which something exists."
 
 So a "purpose" is a [[thought]] that gives a "reason for which something exists."
+
 This is a concept in the mind. It assumes [[cause and effect.]]
+- It can only mean something within time, and for a separate self unless there is an aspect of "purpose" that can be applied to "non-doing"
+- it assumes an identity that can do something
+- if thought is "doing" then an entity that can think in a certain way.
+- purpose assumes time, as in "the purpose of my life..." this implies a voyage and a destination. Within the world this implies direction as well.
+
 
 # What we know about "purpose"
 
@@ -13,47 +19,33 @@ Religious [[Thought Systems]] have for thousands of years, developed ideas to an
 
 -One's thoughts can have a purpose. (given by the thinker)
 -One's thoughts can have an unconscious purpose, not evident to the thinker 
--Some thoughts have no purpose.
 -Some simply arise in the mind randomly
 -Some may arise by unknown reasons.
+-Some thoughts have no purpose.
 
 
-## Purposeless Thoughts
-
-Are there any thoughts that do not have a purpose? [[Studies on random thoughts]]
-
-
+[[Purposeless Thoughts]]
 ## The ego's purpose
 
 [[The persona/ego has a purpose.]]
 
 
-## Thoughts are Shared
+[[Thoughts are Shared]]
 
-Do thoughts permeate between minds of different people? [[Studies on Shared Thoughts]]
-
-
-## Does Action arise from thoughts?
-
--do all human actions arise from thoughts? -no
-- many movements of the body arise from thoughts (conscious movements)
-- unconscious activities like one's heart beating (these just happen without thought)
-
-If an action does not arise from a thought, it could not have its own purpose. (the movement of the wind)
-If an action does arise from a thought, it must have a purpose.
-
-If the moon circling the earth did not begin by a thought, how could it have a purpose?
-We might **impute a purpose to it**, or impute a Creator and His purpose to it, but we can never be sure that this was the purpose. Therefore, imputed purposes can never be trusted as being true.
 
 ## Imputed Purpose
 
-Let us say therefore that some things have no purpose, but the personal mind can impute a purpose to them for the pleasure of holding a belief (of knowing their purpose). Of course this purpose will only be true in the persona's personal experience. 
+Let us say therefore that some things have no purpose, but the personal mind can impute a purpose to them for the pleasure of holding a belief (of knowing its purpose). Of course this purpose will only be true in the persona's personal experience. 
 
 One's thoughts, as we can clearly see, influence the persona's personal experience.
+
+
 
 ## Can an object have a purpose?
 
 If you have no thought about the object, you may have only a perception (which may be someone else's thought about it) 
+
+
 
 [[What are perceptions]]
 

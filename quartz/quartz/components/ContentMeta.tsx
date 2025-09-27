@@ -1,4 +1,4 @@
-import { Date, getDate } from "./Date"
+// import { Date, getDate } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 import { classNames } from "../util/lang"
@@ -15,8 +15,8 @@ interface ContentMetaOptions {
 }
 
 const defaultOptions: ContentMetaOptions = {
-  showReadingTime: true,
-  showComma: true,
+  showReadingTime: false,  // DRC changed
+  showComma: false, // DRC changed
 }
 
 export default ((opts?: Partial<ContentMetaOptions>) => {
@@ -29,9 +29,9 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
-      if (fileData.dates) {
-        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
-      }
+    //  if (fileData.dates) {
+    //    segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+    //  }
 
       // Display reading time if enabled
       if (options.showReadingTime) {

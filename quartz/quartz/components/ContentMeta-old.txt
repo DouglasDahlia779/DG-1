@@ -1,0 +1,59 @@
+**Updated `quartz/components/ContentMeta.tsx` — date & reading-time fully disabled**
+
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { classNames } from "../util/lang"
+import { JSX } from "preact"
+import style from "./styles/contentMeta.scss"
+
+// We keep the component in case other parts of the theme expect it to exist,
+// but we intentionally render NOTHING (no date, no reading time).
+
+interface ContentMetaOptions {
+  showComma: boolean
+  // You can re-enable these later by setting to true and restoring the JSX below.
+  showDate?: boolean
+  showReadingTime?: boolean
+}
+
+const defaultOptions: ContentMetaOptions = {
+  showComma: true,
+  showDate: false,
+  showReadingTime: false,
+}
+
+export default ((opts?: Partial<ContentMetaOptions>) => {
+  const options: ContentMetaOptions = { ...defaultOptions, ...opts }
+
+  function ContentMetadata({ displayClass }: QuartzComponentProps) {
+    // We do not render any metadata segments (date / reading time)
+    const segments: (string | JSX.Element)[] = []
+
+    // If you want to restore date later, uncomment and ensure imports:
+    // import { Date, getDate } from "./Date"
+    // if (options.showDate && fileData?.dates) {
+    //   segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+    // }
+
+    // If you want to restore reading time later, uncomment and ensure imports:
+    // import readingTime from "reading-time"
+    // import { i18n } from "../i18n"
+    // if (options.showReadingTime && fileData?.text) {
+    //   const { minutes } = readingTime(fileData.text)
+    //   const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
+    //     minutes: Math.ceil(minutes),
+    //   })
+    //   segments.push(<span>{displayedTime}</span>)
+    // }
+
+    if (segments.length === 0) return null
+
+    return (
+      <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+        {segments}
+      </p>
+    )
+  }
+
+  ContentMetadata.css = style
+  return ContentMetadata
+}) satisfies QuartzComponentConstructor

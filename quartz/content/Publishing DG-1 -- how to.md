@@ -10,7 +10,10 @@
 | 2.   | open new window in DG- Profile                                    |
 | 3.   | pwd:                                                              |
 | 4.   | /Users/MAC_at_home/Documents/GitHub/DG-1                          |
-|      | npx quartz build --serve (not needed)                             |
+|      |                                                                   |
+|      | cd quartz (before npx quartz build)                               |
+|      | /Users/MAC_at_home/Documents/GitHub/DG-1/quartz                   |
+|      | npx quartz build --serve (to test config locally)                 |
 |      |                                                                   |
 | 5.   | edit notes in Obsidian                                            |
 | 5.   | add the tag #dg to move the note to the _quartz dir_              |
@@ -19,7 +22,24 @@
 | 7.   | git push                                                          |
 |      | causes site to be re-built                                        |
 | ❤️   | site hosted at: [index](https://douglasdahlia779.github.io/DG-1/) |
+|      |                                                                   |
+|      | CNT+C to kill server window ❤️                                    |
+|      | to get an image on the website:                                   |
+|      |                                                                   |
+|      | GET IMAGES ON HYOUR WEBSITE                                       |
+|      | -1- move image from bins into /quartz                             |
+|      | -2- CNT+C to kill the localhost                                   |
+|      | -3- npx quartz build                                              |
+|      | -4- in obsidian, drag image into the note from the /quartz dir    |
+|      | -5- npx quartz build --serve                                      |
+|      |                                                                   |
+|      |                                                                   |
+|      |                                                                   |
 
+
+|     | Configuration Changes | file name |
+| --- | --------------------- | --------- |
+|     |                       |           |
 
 
 

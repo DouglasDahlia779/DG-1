@@ -7,10 +7,11 @@ date: 2020-06-25
 tags:
   - Real
   - definition
+  - dg
 Type: Key_idea
 Class: Spirit
 ---
-#dg 
+
 
 # [[Reality according to Science]]
 # Spirit: What is Real 

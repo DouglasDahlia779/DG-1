@@ -1,0 +1,27 @@
+---
+tags:
+  - dg
+---
+
+
+## Quietness. By Rumi.
+
+Inside this new love, die.
+Your way begins on the other side.
+
+Become the sky.
+Take an axe to the prison wall.
+
+Escape.
+Walk out like someone suddenly born into colour.
+
+Do it now.
+You're covered with thick cloud
+
+Slide out the other side. Die, and be quiet. 
+Quietness is the surest sign that you've died.
+
+Your old life was a frantic running from silence.
+The speechless full moon
+
+Come out now.
